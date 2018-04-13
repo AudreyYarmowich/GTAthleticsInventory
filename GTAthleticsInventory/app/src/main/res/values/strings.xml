@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Athletics_Inventory</string>
+    <string name="title_activity_checkout_activity">checkout_activity</string>
+    <string-array name="location_array">
+        <item>Main Storage Closet</item>
+        <item>Room 104b</item>
+        <item>Medical Office</item>
+        <item>Baseball</item>
+        <item>Offices</item>
+        <item>Athletics Room Cabinets</item>
+        <item>Student</item>
+    </string-array>
+    <string-array name="item_array">
+        <item>.25\" tape</item>
+        <item>Ibprofen</item>
+        <item>.50\" tape</item>
+        <item>.25\" padding</item>
+        <item>Cooling Gel</item>
+    </string-array>
+</resources>
